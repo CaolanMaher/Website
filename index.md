@@ -6,6 +6,8 @@ You can use the [editor on GitHub](https://github.com/CaolanMaher/Website/edit/g
 
 ## About Me
 
+<p> Sample Text </p>
+
 ## Projects
 
 ### RoboStorm
