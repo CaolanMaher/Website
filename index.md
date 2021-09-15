@@ -1,8 +1,6 @@
-<link href="style.css" rel="stylesheet">
-
-### Caolan Maher's GitHub
-
 # Caolan Maher's GitHub
+
+<link href="style.css" rel="stylesheet">
 
 ## Welcome to My Website
 
