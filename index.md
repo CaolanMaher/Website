@@ -12,7 +12,7 @@ You can use the [editor on GitHub](https://github.com/CaolanMaher/Website/edit/g
   }
 </style>
 
-<p> Sample Text </p> {.red}
+<p class="red"> Sample Text </p>
 
 ## Projects
 
