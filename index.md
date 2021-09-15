@@ -6,7 +6,13 @@ You can use the [editor on GitHub](https://github.com/CaolanMaher/Website/edit/g
 
 ## About Me
 
-<p> Sample Text </p>
+<style>
+  .red {
+  color: red;
+  }
+</style>
+
+<p> Sample Text </p> {.red}
 
 ## Projects
 
