@@ -17,7 +17,7 @@ You can use the [editor on GitHub](https://github.com/CaolanMaher/Website/edit/g
 ## Projects
 
 ### RoboStorm
-<img src="/images/RoboStorm.png" alt="RoboStorm" width = "500" height = "300" />
+<img src="images/RoboStorm.png" alt="RoboStorm" width = "500" height = "300" />
 PLACEHOLDER
 
 ### Manic Mansion
