@@ -1,4 +1,6 @@
+<head>
 <link rel="stylesheet" href "style.css">
+</head>
 
 # Caolan Maher's GitHub
 
