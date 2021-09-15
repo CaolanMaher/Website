@@ -1,4 +1,6 @@
-### Welcome to My Webiste
+### Caolan Maher
+
+### Welcome to My Website
 
 You can use the [editor on GitHub](https://github.com/CaolanMaher/Website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
