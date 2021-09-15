@@ -1,3 +1,5 @@
+<link rel="stylesheet" href "style.css">
+
 # Caolan Maher's GitHub
 
 ## Welcome to My Website
@@ -11,7 +13,7 @@ You can use the [editor on GitHub](https://github.com/CaolanMaher/Website/edit/g
 ## Projects
 
 ### RoboStorm
-<img class="float_right" src="images/RoboStorm.png" alt="RoboStorm" width = "500" height = "300" />
+<img class="float_right" src="images/RoboStorm.png" alt="RoboStorm" width = "400" height = "300" />
 <p>PLACEHOLDER</p>
 <p>This is a game I made with a fellow college student for Brackeys Game Jam.</p>
 <p>You play as robot who has to fight off other robots in a chaotic hellstorm.</p>
