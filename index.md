@@ -1,9 +1,3 @@
-<head>
-<link rel="stylesheet" href "style.css">
-</head>
-
-<body>
-  
 # Caolan Maher's GitHub
 
 ## Welcome to My Website
@@ -52,5 +46,3 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-</body>
