@@ -6,19 +6,17 @@ You can use the [editor on GitHub](https://github.com/CaolanMaher/Website/edit/g
 
 ## About Me
 
-<style>
-  .red {
-  color: red;
-  }
-</style>
-
 <p class="red"> Sample Text </p>
 
 ## Projects
 
 ### RoboStorm
-<img src="images/RoboStorm.png" alt="RoboStorm" width = "500" height = "300" />
+<img class="float_right" src="images/RoboStorm.png" alt="RoboStorm" width = "500" height = "300" />
 <p>PLACEHOLDER</p>
+<p>This is a game I made with a fellow college student for Brackeys Game Jam.</p>
+<p>You play as robot who has to fight off other robots in a chaotic hellstorm.</p>
+<p>Pick up abilities that spawn around the map, but be careful as these abilities can be</p>
+<p>positive or negative for you or the enemies.</p>
 
 ### Manic Mansion
 PLACEHOLDER
