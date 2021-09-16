@@ -10,7 +10,7 @@ You can use the [editor on GitHub](https://github.com/CaolanMaher/Website/edit/g
 
 <p class="red"> Sample Text </p>
 
-## Projects
+## Projects I Have Worked On
 
 ### RoboStorm
 <img class="float_right" src="images/RoboStorm.png" alt="RoboStorm" width = "400" height = "300" />
@@ -21,30 +21,11 @@ You can use the [editor on GitHub](https://github.com/CaolanMaher/Website/edit/g
 <p>positive or negative for you or the enemies.</p>
 
 ### Manic Mansion
-PLACEHOLDER
+<img class="float_right" src=""/>
+<p>This was a college project</p>
 
 ### Finding Rachael
 PLACEHOLDER
 
 ### The Haunting Maze
 PLACEHOLDER
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
