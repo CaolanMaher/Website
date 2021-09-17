@@ -47,6 +47,11 @@ You can use the [editor on GitHub](https://github.com/CaolanMaher/Website/edit/g
 <img class="float_right" src="images/FindingRachael.png" alt="Thief" width="300" width="300" />
 
 <p>This is a game I made with two fellow students for Ludum Dare 48</p>
+<p>SAMPLE TEXT</p>
+<p>SAMPLE TEXT</p>
+<p>SAMPLE TEXT</p>
+<p>SAMPLE TEXT</p>
+<p>SAMPLE TEXT</p>
 
 ### The Haunting Maze
 PLACEHOLDER
