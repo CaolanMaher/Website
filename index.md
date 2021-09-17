@@ -14,7 +14,7 @@ You can use the [editor on GitHub](https://github.com/CaolanMaher/Website/edit/g
 
 ### RoboStorm
 <img class="float_right" src="images/RoboStorm.png" alt="RoboStorm" width="300" height="300" />
-<p>PLACEHOLDER</p>
+
 <p>This is a game I made with a fellow college student for Brackeys Game Jam.</p>
 <p>You play as robot who has to fight off other robots in a chaotic hellstorm.</p>
 <p>Pick up abilities that spawn around the map, but be careful as these abilities can be</p>
@@ -22,6 +22,7 @@ You can use the [editor on GitHub](https://github.com/CaolanMaher/Website/edit/g
 
 ### Manic Mansion
 <img class="float_right" src="images/ManicMansion.png" alt="Manic Mansion" width="300" height="300" />
+
 <p>This was a college project that I worked on with 2 fellow students</p>
 <p>You play as a man whose car has broken down at the side of the road</p>
 <p>You search for anyone who might he able to help and come across a large</p>
@@ -33,10 +34,19 @@ You can use the [editor on GitHub](https://github.com/CaolanMaher/Website/edit/g
 <p>in order to leave the house.</p>
 
 ### Thief
+<img class="float_right" src="images/Thief.png" alt="Thief" width="300" width="300" />
+
+<p>This is a game I created with a fellow student for Summer Game Jam 2021</p>
+<p>You play as a up-and-coming thief trying to make it big by making</p>
+<p>his very heist a big one. Your job is to steal the treasured piece</p>
+<p>of art present in the art gallery.  You will have to be careful and</p>
+<p>stealthy as a wide range of guards will be patrolling the area ready</p>
+<p>to capture you if you stumble.</p>
 
 ### Finding Rachael
 <img class="float_right" src="images/Thief.png" alt="Thief" width="300" width="300" />
-<p>This is a game I made with two
+
+<p>This is a game I made with two fellow students for Ludum Dare 48</p>
 
 ### The Haunting Maze
 PLACEHOLDER
