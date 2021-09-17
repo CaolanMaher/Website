@@ -44,7 +44,7 @@ You can use the [editor on GitHub](https://github.com/CaolanMaher/Website/edit/g
 <p>to capture you if you stumble.</p>
 
 ### Finding Rachael
-<img class="float_right" src="images/Thief.png" alt="Thief" width="300" width="300" />
+<img class="float_right" src="images/FindingRachael.png" alt="Thief" width="300" width="300" />
 
 <p>This is a game I made with two fellow students for Ludum Dare 48</p>
 
