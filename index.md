@@ -18,6 +18,8 @@
 <p>Pick up abilities that spawn around the map, but be careful as these abilities can be</p>
 <p>positive or negative for you or the enemies.</p>
 
+<br class="text_space">
+
 ### Manic Mansion
 <img class="float_right_project_image" src="images/ManicMansion.png" alt="Manic Mansion" width="300" height="300" />
 
@@ -31,6 +33,8 @@
 <p>You must find all the pieces of the crystal to put it back together</p>
 <p>in order to leave the house.</p>
 
+<br class="text_space">
+
 ### Thief
 <img class="float_right_project_image" src="images/Thief.png" alt="Thief" width="300" width="300" />
 
@@ -41,6 +45,8 @@
 <p>stealthy as a wide range of guards will be patrolling the area ready</p>
 <p>to capture you if you stumble.</p>
 
+<br class="text_space">
+
 ### Finding Rachael
 <img class="float_right_project_image" src="images/FindingRachael.png" alt="Thief" width="300" width="300" />
 
@@ -50,6 +56,8 @@
 <p>SAMPLE TEXT</p>
 <p>SAMPLE TEXT</p>
 <p>SAMPLE TEXT</p>
+
+<br class="text_space">
 
 ### The Haunting Maze
 PLACEHOLDER
