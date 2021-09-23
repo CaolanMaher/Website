@@ -23,8 +23,8 @@
 ### Manic Mansion
 
 <p>This was a college project that I worked on with 2 fellow students</p>
-<p>You play as a man whose car has broken down at the side of the road</p>
 <img class="float_right_project_image" src="images/ManicMansion.png" alt="Manic Mansion" width="300" height="300" />
+<p>You play as a man whose car has broken down at the side of the road</p>
 <p>You search for anyone who might he able to help and come across a large</p>
 <p>mansion surrounded by trees.</p>
 <p>You decide to walk in in hopes of finding someone who can help you.</p>
@@ -37,8 +37,8 @@
 
 ### Thief
 
-<p>This is a game I created with a fellow student for Summer Game Jam 2021</p>
 <img class="float_right_project_image" src="images/Thief.png" alt="Thief" width="300" width="300" />
+<p>This is a game I created with a fellow student for Summer Game Jam 2021</p>
 <p>You play as a up-and-coming thief trying to make it big by making</p>
 <p>his very heist a big one. Your job is to steal the treasured piece</p>
 <p>of art present in the art gallery.  You will have to be careful and</p>
@@ -49,8 +49,8 @@
 
 ### Finding Rachael
 
-<p>This is a game I made with two fellow students for Ludum Dare 48</p>
 <img class="float_right_project_image" src="images/FindingRachael.png" alt="Thief" width="300" width="300" />
+<p>This is a game I made with two fellow students for Ludum Dare 48</p>
 <p>SAMPLE TEXT</p>
 <p>SAMPLE TEXT</p>
 <p>SAMPLE TEXT</p>
@@ -60,4 +60,11 @@
 <br class="text_space">
 
 ### The Haunting Maze
-PLACEHOLDER
+
+<img class="float_right_project_image" src="images/HauntingMaze.png" alt="Thief" width="300" width="300" />
+<p>This is a game I made with a fellow student for the Dublin Game Jam 2021
+<p>SAMPLE TEXT</p>
+<p>SAMPLE TEXT</p>
+<p>SAMPLE TEXT</p>
+<p>SAMPLE TEXT</p>
+<p>SAMPLE TEXT</p>
