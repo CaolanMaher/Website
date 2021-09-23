@@ -3,25 +3,21 @@ title: Caolan Maher's GitHub
 layout: default
 ---
 
-# Caolan Maher's GitHub
+<h1 class="center_heading"> Caolan Maher's GitHub </h1>
 
 <link href="style.css" rel="stylesheet">
 
-## Welcome to My Website
-
 <h2 class="center_heading">About Me</h2>
 
-<center><hr style="width : 20%"></center>
+<center><hr style="width : 30%"></center>
 
-<a href="modules.html">Modules Page</a>
-
-<p>Sample Text</p>
+<p>To see information about the modules and my grades within my course see the<a href="modules.html">Modules Page</a>
 
 <h2 class="center_heading">Projects I Have Worked On</h2>
 
-<center><hr style="width : 20%"></center>
+<center><hr style="width : 30%"></center>
 
-### RoboStorm
+<h3> RoboStorm </h3>
 <img class="float_right_project_image" src="images/RoboStorm.png" alt="RoboStorm" width="300" height="300" />
 
 <p>This is a game I made with a fellow college student for Brackeys Game Jam.</p>
@@ -30,7 +26,7 @@ layout: default
 
 <br class="text_space">
 
-### Manic Mansion
+<h3> Manic Mansion </h3>
 
 <p>This was a college project that I worked on with 2 fellow students</p>
 <img class="float_right_project_image" src="images/ManicMansion.png" alt="Manic Mansion" width="300" height="300" />
@@ -43,7 +39,7 @@ layout: default
 
 <br class="text_space">
 
-### Thief
+<h3> Thief </h3>
 
 <img class="float_right_project_image" src="images/Thief.png" alt="Thief" width="300" width="300" />
 <p>This is a game I created with a fellow student for Summer Game Jam 2021</p>
@@ -52,7 +48,7 @@ layout: default
 
 <br class="text_space">
 
-### Finding Rachael
+<h3> Finding Rachael </h3>
 
 <img class="float_right_project_image" src="images/FindingRachael.png" alt="Thief" width="300" width="300" />
 <p>This is a game I made with two fellow students for Ludum Dare 48</p>
@@ -63,7 +59,7 @@ layout: default
 
 <br class="text_space">
 
-### The Haunting Maze
+<h3> The Haunting Maze </h3>
 
 <img class="float_right_project_image" src="images/HauntingMaze.png" alt="Thief" width="300" width="300" />
 <p>This is a game I made with a fellow student for the Dublin Game Jam 2021
