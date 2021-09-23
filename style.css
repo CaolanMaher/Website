@@ -8,3 +8,7 @@
 .text_space {
   padding: 2em;
 }
+
+#center {
+  margin: auto;
+}
