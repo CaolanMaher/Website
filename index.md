@@ -6,7 +6,7 @@
 
 ## About Me
 
-<a href="modules.md">Modules Page</a>
+<a href="modules.html">Modules Page</a>
 
 <p class="red"> Sample Text </p>
 
