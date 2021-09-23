@@ -1,4 +1,5 @@
 ---
+title: Caolan Maher's GitHub
 layout: default
 ---
 
@@ -8,13 +9,17 @@ layout: default
 
 ## Welcome to My Website
 
-## About Me
+<h2 id="center">About Me</h2>
+
+<hr>
 
 <a href="modules.html">Modules Page</a>
 
 <p class="red"> Sample Text </p>
 
-## Projects I Have Worked On
+<h2 id="center">Projects I Have Worked On</h2>
+
+<hr>
 
 ### RoboStorm
 <img class="float_right_project_image" src="images/RoboStorm.png" alt="RoboStorm" width="300" height="300" />
