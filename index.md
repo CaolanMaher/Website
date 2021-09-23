@@ -9,14 +9,14 @@ layout: default
 
 <h2 class="center_heading">About Me</h2>
 
-<center><hr></center>
+<center><hr class="line"></center>
 
 <p>I am a 3rd Year college student studying Applied Computing and Game Development in WIT</p>
 <p>To see information about the modules and my grades within my course see my <a href="modules.html">Modules Page</a>
 
 <h2 class="center_heading">Projects I Have Worked On</h2>
 
-<center><hr></center>
+<center><hr class="line"></center>
 
 <h3> RoboStorm </h3>
 <img class="float_right_project_image" src="images/RoboStorm.png" alt="RoboStorm" width="300" height="300" />
