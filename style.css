@@ -16,7 +16,7 @@
 
 .line {
   width: 30%;
-  color: green;
+  border: 1px green;
 }
 
 .center_text {
