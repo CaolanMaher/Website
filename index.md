@@ -11,7 +11,7 @@ layout: default
 
 <center><hr style="width : 30%"></center>
 
-<p>To see information about the modules and my grades within my course see the<a href="modules.html">Modules Page</a>
+<p>To see information about the modules and my grades within my course see the <a href="modules.html">Modules Page</a>
 
 <h2 class="center_heading">Projects I Have Worked On</h2>
 
