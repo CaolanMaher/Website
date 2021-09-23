@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Caolan Maher's GitHub
 
 <link href="style.css" rel="stylesheet">
