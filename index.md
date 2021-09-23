@@ -67,3 +67,5 @@ layout: default
 <p>You are trapped in a maze with a roaming ghost.</p>
 <p>You must find all the keys in the maze to unlock the door to escape.</p>
 <p>If the ghost finds you, he will chase you down. If he catches you, you die and have to restart.</p>
+
+<br class="text_space">
