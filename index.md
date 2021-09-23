@@ -1,9 +1,3 @@
----
-title: Caolan Maher's GitHub
-layout: jekyll-theme-cayman
-filename: index.md
----
-
 # Caolan Maher's GitHub
 
 <link href="style.css" rel="stylesheet">
