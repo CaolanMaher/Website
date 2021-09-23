@@ -18,3 +18,7 @@
   width: 30%;
   border: 1px solid green;
 }
+
+.center_text {
+  text-align: center;
+}
