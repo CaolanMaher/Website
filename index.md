@@ -1,6 +1,6 @@
 ---
 title: Caolan Maher's GitHub
-layout: template
+layout: jekyll-theme-cayman
 filename: index.md
 ---
 
