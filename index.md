@@ -12,7 +12,7 @@ layout: default
 <center><hr class="line"></center>
 
 <p class="center_text">I am a 3rd Year college student studying Applied Computing and Game Development in WIT</p>
-<p class="center_text">To see information about the modules and my grades within my course see my <a href="modules.html">Modules Page</a>
+<p class="center_text">To see information about the modules and my grades within my course see my <a href="modules.html">Modules Page</a></p>
 
 <h2 class="center_heading">Projects I Have Worked On</h2>
 
