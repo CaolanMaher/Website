@@ -11,7 +11,7 @@ layout: default
 
 <h2 class="center_heading">About Me</h2>
 
-<hr>
+<hr class="line">
 
 <a href="modules.html">Modules Page</a>
 
@@ -19,7 +19,7 @@ layout: default
 
 <h2 class="center_heading">Projects I Have Worked On</h2>
 
-<hr>
+<hr class="line">
 
 ### RoboStorm
 <img class="float_right_project_image" src="images/RoboStorm.png" alt="RoboStorm" width="300" height="300" />
