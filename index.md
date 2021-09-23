@@ -11,6 +11,7 @@ layout: default
 
 <center><hr style="width : 30%"></center>
 
+<p>I am a 3rd Year college student studying Applied Computing and Game Development in WIT</p>
 <p>To see information about the modules and my grades within my course see my <a href="modules.html">Modules Page</a>
 
 <h2 class="center_heading">Projects I Have Worked On</h2>
