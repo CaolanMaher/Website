@@ -1,3 +1,9 @@
+---
+title: Caolan Maher's GitHub
+layout: template
+filename: index.md
+---
+
 # Caolan Maher's GitHub
 
 <link href="style.css" rel="stylesheet">
