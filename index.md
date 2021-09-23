@@ -9,15 +9,15 @@ layout: default
 
 ## Welcome to My Website
 
-<h2 id="center">About Me</h2>
+<h2 class="center_heading">About Me</h2>
 
 <hr>
 
 <a href="modules.html">Modules Page</a>
 
-<p class="red"> Sample Text </p>
+<p>Sample Text</p>
 
-<h2 id="center">Projects I Have Worked On</h2>
+<h2 class="center_heading">Projects I Have Worked On</h2>
 
 <hr>
 
