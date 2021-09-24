@@ -23,9 +23,7 @@
 }
 
 .module_table {
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
+  align: center;
 }
 
 .module_table th {
