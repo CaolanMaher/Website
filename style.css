@@ -21,3 +21,13 @@
 .center_text {
   text-align: center;
 }
+
+.module_table {
+  width: 100%;
+}
+
+.module_table th {
+  background-color: #22ddb6;
+  text-align: center;
+  color: white;
+}
