@@ -27,7 +27,7 @@
 }
 
 table {
-  width: 70%;
+  float: right;
 }
 
 .module_table th {
