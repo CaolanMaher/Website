@@ -23,7 +23,9 @@
 }
 
 .module_table {
-  width: 100%;
+  display: flex;
+  justify-content: center;
+  width: 50%;
 }
 
 .module_table th {
