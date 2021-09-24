@@ -26,6 +26,10 @@
   align: center;
 }
 
+table {
+  width: 70%;
+}
+
 .module_table th {
   background-color: #22ddb6;
   text-align: center;
