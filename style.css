@@ -23,8 +23,12 @@
 }
 
 .module_table {
-  padding-left: 10em;
   width: 80%;
+}
+
+.module_table td {
+  padding-left: 2em;
+  padding-right: 2em;
 }
 
 .module_table th {
