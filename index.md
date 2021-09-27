@@ -26,6 +26,7 @@ layout: default
 <p>This is a game I made with a fellow college student for Brackeys Game Jam.</p>
 <p>You play as robot who has to fight off other robots in a chaotic hellstorm.</p>
 <p>Pick up abilities that spawn around the map, but be careful as these abilities can be positive or negative for you or the enemies.</p>
+<p>Play the game <a href="https://caolanmaher.itch.io/robo-storm">here</a></p>
 
 <br class="text_space">
 
@@ -39,6 +40,7 @@ layout: default
 <p>The house is empty but you find a large crystal upstairs.</p>
 <p>You decide to investigate the crystal but end up breaking it.</p>
 <p>You must find all the pieces of the crystal to put it back together to leave the house.</p>
+<p>Play the game <a href="https://1drv.ms/u/s!AmzXbVAd1LLGhQZ9Dhf7JNmo8cjA?e=WjydTf">here</a></p>
 
 <br class="text_space">
 
@@ -48,6 +50,7 @@ layout: default
 <p>This is a game I created with a fellow student for Summer Game Jam 2021</p>
 <p>You play as a up-and-coming thief trying to make it big by making his very heist a big one. Your job is to steal the treasured piece of art present in the art gallery.</p>
 <p>You will have to be careful and stealthy as a wide range of guards will be patrolling the area ready to capture you if you stumble.</p>
+<p>Play the game <a href="https://jakub-poczatek.itch.io/thief">here</a></p>
 
 <br class="text_space">
 
@@ -59,6 +62,7 @@ layout: default
 <p>You head to the park to search for the child called Rachael.</p>
 <p>While searching through the park you find portals leading to different dimensions.</p>
 <p>Traverse through these dimensions to find Rachel and get her home safely.</p>
+<p>Play the game <a href="https://1drv.ms/u/s!AmzXbVAd1LLGhGA7RnRWoU5N9gNb?e=SvFEvB">here</a></p>
 
 <br class="text_space">
 
@@ -69,5 +73,6 @@ layout: default
 <p>You are trapped in a maze with a roaming ghost.</p>
 <p>You must find all the keys in the maze to unlock the door to escape.</p>
 <p>If the ghost finds you, he will chase you down. If he catches you, you die and have to restart.</p>
+<p>Play the game <a href="https://1drv.ms/u/s!AmzXbVAd1LLGhHh49813PqYEcufm?e=uUxiGF">here</a></p>
 
 <br class="text_space">
