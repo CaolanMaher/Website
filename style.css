@@ -26,6 +26,10 @@
   width: 80%;
 }
 
+td {
+  padding: 5em;
+}
+
 .module_table tr {
   padding-left: 5em;
   padding-right: 5em;
