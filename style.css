@@ -26,9 +26,9 @@
   width: 80%;
 }
 
-.module_table td {
-  padding-left: 2em;
-  padding-right: 2em;
+.module_table tr {
+  padding-left: 5em;
+  padding-right: 5em;
 }
 
 .module_table th {
