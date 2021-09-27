@@ -24,10 +24,7 @@
 
 .module_table {
   width: 80%;
-}
-
-td {
-  padding: 5em;
+  padding-left: 10em;
 }
 
 .module_table tr {
